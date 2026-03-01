@@ -1,0 +1,9 @@
+*.cbp
+*.layout
+*.depend
+*.exe
+*.o
+*.obj
+*.gch
+*.tmp
+.DS_Store
