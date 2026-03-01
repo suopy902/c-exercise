@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761295911 source:e:\onedrive\desktop\程序\代码\完全平方数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
